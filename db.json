@@ -214,13 +214,13 @@
       "id": 0,
       "user": "Hassam",
       "contraseña": "hassam",
-      "cartShop": []
+      "imgAvatar": "https://ih1.redbubble.net/image.2896197394.8581/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
     },
     {
       "id": 1,
       "user": "admin",
       "contraseña": "admin",
-      "cartShop": []
+      "imgAvatar" : "https://static.vecteezy.com/system/resources/thumbnails/005/005/791/small/user-icon-in-trendy-flat-style-isolated-on-grey-background-user-symbol-for-your-web-site-design-logo-app-ui-illustration-eps10-free-vector.jpg"
     }
   ]
 }
