@@ -218,9 +218,9 @@
     },
     {
       "id": 1,
-      "user": "admin",
+      "user": "Admin",
       "contraseña": "admin",
-      "imgAvatar" : "https://static.vecteezy.com/system/resources/thumbnails/005/005/791/small/user-icon-in-trendy-flat-style-isolated-on-grey-background-user-symbol-for-your-web-site-design-logo-app-ui-illustration-eps10-free-vector.jpg"
+      "imgAvatar": "https://static.vecteezy.com/system/resources/thumbnails/005/005/791/small/user-icon-in-trendy-flat-style-isolated-on-grey-background-user-symbol-for-your-web-site-design-logo-app-ui-illustration-eps10-free-vector.jpg"
     }
   ]
 }
